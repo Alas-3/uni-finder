@@ -1,0 +1,987 @@
+{
+    "USA": [
+      {
+        "rank": 1,
+        "name": "Massachusetts Institute of Technology",
+        "city": "Cambridge",
+        "state": "Massachusetts",
+        "country": "USA",
+        "website": "http://www.mit.edu"
+      },
+      {
+        "rank": 2,
+        "name": "Stanford University",
+        "city": "Stanford",
+        "state": "California",
+        "country": "USA",
+        "website": "http://www.stanford.edu"
+      },
+      {
+        "rank": 3,
+        "name": "Harvard University",
+        "city": "Cambridge",
+        "state": "Massachusetts",
+        "country": "USA",
+        "website": "http://www.harvard.edu"
+      },
+      {
+        "rank": 4,
+        "name": "California Institute of Technology",
+        "city": "Pasadena",
+        "state": "California",
+        "country": "USA",
+        "website": "http://www.caltech.edu"
+      },
+      {
+        "rank": 5,
+        "name": "University of Chicago",
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "USA",
+        "website": "http://www.uchicago.edu"
+      },
+      {
+        "rank": 6,
+        "name": "Princeton University",
+        "city": "Princeton",
+        "state": "New Jersey",
+        "country": "USA",
+        "website": "http://www.princeton.edu"
+      },
+      {
+        "rank": 7,
+        "name": "Columbia University",
+        "city": "New York",
+        "state": "New York",
+        "country": "USA",
+        "website": "http://www.columbia.edu"
+      },
+      {
+        "rank": 8,
+        "name": "University of Pennsylvania",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "country": "USA",
+        "website": "http://www.upenn.edu"
+      },
+      {
+        "rank": 9,
+        "name": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "country": "USA",
+        "website": "http://www.yale.edu"
+      },
+      {
+        "rank": 10,
+        "name": "University of California, Berkeley",
+        "city": "Berkeley",
+        "state": "California",
+        "country": "USA",
+        "website": "http://www.berkeley.edu"
+      }
+    ],
+    "Canada": [
+      {
+        "rank": 1,
+        "name": "University of Toronto",
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "website": "http://www.utoronto.ca"
+      },
+      {
+        "rank": 2,
+        "name": "University of British Columbia",
+        "city": "Vancouver",
+        "state": "British Columbia",
+        "country": "Canada",
+        "website": "http://www.ubc.ca"
+      },
+      {
+        "rank": 3,
+        "name": "McGill University",
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "Canada",
+        "website": "http://www.mcgill.ca"
+      },
+      {
+        "rank": 4,
+        "name": "University of Alberta",
+        "city": "Edmonton",
+        "state": "Alberta",
+        "country": "Canada",
+        "website": "http://www.ualberta.ca"
+      },
+      {
+        "rank": 5,
+        "name": "University of Waterloo",
+        "city": "Waterloo",
+        "state": "Ontario",
+        "country": "Canada",
+        "website": "http://www.uwaterloo.ca"
+      },
+      {
+        "rank": 6,
+        "name": "Western University",
+        "city": "London",
+        "state": "Ontario",
+        "country": "Canada",
+        "website": "http://www.uwo.ca"
+      },
+      {
+        "rank": 7,
+        "name": "Queen's University",
+        "city": "Kingston",
+        "state": "Ontario",
+        "country": "Canada",
+        "website": "http://www.queensu.ca"
+      },
+      {
+        "rank": 8,
+        "name": "University of Ottawa",
+        "city": "Ottawa",
+        "state": "Ontario",
+        "country": "Canada",
+        "website": "http://www.uottawa.ca"
+      },
+      {
+        "rank": 9,
+        "name": "Simon Fraser University",
+        "city": "Burnaby",
+        "state": "British Columbia",
+        "country": "Canada",
+        "website": "http://www.sfu.ca"
+      },
+      {
+        "rank": 10,
+        "name": "University of Saskatchewan",
+        "city": "Saskatoon",
+        "state": "Saskatchewan",
+        "country": "Canada",
+        "website": "http://www.usask.ca"
+      }
+    ],
+    "China": [
+      {
+        "rank": 1,
+        "name": "Tsinghua University",
+        "city": "Beijing",
+        "state": "",
+        "country": "China",
+        "website": "http://www.tsinghua.edu.cn"
+      },
+      {
+        "rank": 2,
+        "name": "Peking University",
+        "city": "Beijing",
+        "state": "",
+        "country": "China",
+        "website": "http://www.pku.edu.cn"
+      },
+      {
+        "rank": 3,
+        "name": "Fudan University",
+        "city": "Shanghai",
+        "state": "",
+        "country": "China",
+        "website": "http://www.fudan.edu.cn"
+      },
+      {
+        "rank": 4,
+        "name": "Shanghai Jiao Tong University",
+        "city": "Shanghai",
+        "state": "",
+        "country": "China",
+        "website": "http://www.sjtu.edu.cn"
+      },
+      {
+        "rank": 5,
+        "name": "Zhejiang University",
+        "city": "Hangzhou",
+        "state": "",
+        "country": "China",
+        "website": "http://www.zju.edu.cn"
+      },
+      {
+        "rank": 6,
+        "name": "University of Science and Technology of China",
+        "city": "Hefei",
+        "state": "",
+        "country": "China",
+        "website": "http://www.ustc.edu.cn"
+      },
+      {
+        "rank": 7,
+        "name": "Nanjing University",
+        "city": "Nanjing",
+        "state": "",
+        "country": "China",
+        "website": "http://www.nju.edu.cn"
+      },
+      {
+        "rank": 8,
+        "name": "Sun Yat-sen University",
+        "city": "Guangzhou",
+        "state": "",
+        "country": "China",
+        "website": "http://www.sysu.edu.cn"
+      },
+      {
+        "rank": 9,
+        "name": "Beijing Normal University",
+        "city": "Beijing",
+        "state": "",
+        "country": "China",
+        "website": "http://www.bnu.edu.cn"
+      },
+      {
+        "rank": 10,
+        "name": "Xi'an Jiaotong University",
+        "city": "Xi'an",
+        "state": "",
+        "country": "China",
+        "website": "http://www.xjtu.edu.cn"
+      }
+    ],
+    "Japan": [
+      {
+        "rank": 1,
+        "name": "University of Tokyo",
+        "city": "Tokyo",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.u-tokyo.ac.jp"
+      },
+      {
+        "rank": 2,
+        "name": "Kyoto University",
+        "city": "Kyoto",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.kyoto-u.ac.jp"
+      },
+      {
+        "rank": 3,
+        "name": "Osaka University",
+        "city": "Osaka",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.osaka-u.ac.jp"
+      },
+      {
+        "rank": 4,
+        "name": "Tokyo Institute of Technology",
+        "city": "Tokyo",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.titech.ac.jp"
+      },
+      {
+        "rank": 5,
+        "name": "Nagoya University",
+        "city": "Nagoya",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.nagoya-u.ac.jp"
+      },
+      {
+        "rank": 6,
+        "name": "Tohoku University",
+        "city": "Sendai",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.tohoku.ac.jp"
+      },
+      {
+        "rank": 7,
+        "name": "Kyushu University",
+        "city": "Fukuoka",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.kyushu-u.ac.jp"
+      },
+      {
+        "rank": 8,
+        "name": "Hosei University",
+        "city": "Tokyo",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.hosei.ac.jp"
+      },
+      {
+        "rank": 9,
+        "name": "Keio University",
+        "city": "Tokyo",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.keio.ac.jp"
+      },
+      {
+        "rank": 10,
+        "name": "Hitotsubashi University",
+        "city": "Tokyo",
+        "state": "",
+        "country": "Japan",
+        "website": "http://www.hit-u.ac.jp"
+      }
+    ],
+    "South Korea": [
+      {
+        "rank": 1,
+        "name": "Seoul National University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.snu.ac.kr"
+      },
+      {
+        "rank": 2,
+        "name": "KAIST (Korea Advanced Institute of Science and Technology)",
+        "city": "Daejeon",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.kaist.ac.kr"
+      },
+      {
+        "rank": 3,
+        "name": "POSTECH (Pohang University of Science and Technology)",
+        "city": "Pohang",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.postech.ac.kr"
+      },
+      {
+        "rank": 4,
+        "name": "Yonsei University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.yonsei.ac.kr"
+      },
+      {
+        "rank": 5,
+        "name": "Korea University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.korea.ac.kr"
+      },
+      {
+        "rank": 6,
+        "name": "Hanyang University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.hanyang.ac.kr"
+      },
+      {
+        "rank": 7,
+        "name": "Sungkyunkwan University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.skku.edu"
+      },
+      {
+        "rank": 8,
+        "name": "Pusan National University",
+        "city": "Busan",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.pusan.ac.kr"
+      },
+      {
+        "rank": 9,
+        "name": "Kyung Hee University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.kyunghee.ac.kr"
+      },
+      {
+        "rank": 10,
+        "name": "Chung-Ang University",
+        "city": "Seoul",
+        "state": "",
+        "country": "South Korea",
+        "website": "http://www.cau.ac.kr"
+      }
+    ],
+    "Singapore": [
+      {
+        "rank": 1,
+        "name": "National University of Singapore",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.nus.edu.sg"
+      },
+      {
+        "rank": 2,
+        "name": "Nanyang Technological University",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.ntu.edu.sg"
+      },
+      {
+        "rank": 3,
+        "name": "Singapore Management University",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.smu.edu.sg"
+      },
+      {
+        "rank": 4,
+        "name": "Singapore University of Technology and Design",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.sutd.edu.sg"
+      },
+      {
+        "rank": 5,
+        "name": "Singapore University of Social Sciences",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.suss.edu.sg"
+      },
+      {
+        "rank": 6,
+        "name": "Yale-NUS College",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.yale-nus.edu.sg"
+      },
+      {
+        "rank": 7,
+        "name": "Singapore University of Design and Technology",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.sutd.edu.sg"
+      },
+      {
+        "rank": 8,
+        "name": "Singapore Institute of Technology",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.singaporetech.edu.sg"
+      },
+      {
+        "rank": 9,
+        "name": "Singapore Institute of Management",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.sim.edu.sg"
+      },
+      {
+        "rank": 10,
+        "name": "Singapore Institute of Applied Technology",
+        "city": "Singapore",
+        "state": "",
+        "country": "Singapore",
+        "website": "http://www.siat.edu.sg"
+      }
+    ],
+    "Hong Kong": [
+      {
+        "rank": 1,
+        "name": "University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.hku.hk"
+      },
+      {
+        "rank": 2,
+        "name": "Chinese University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.cuhk.edu.hk"
+      },
+      {
+        "rank": 3,
+        "name": "Hong Kong University of Science and Technology",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.ust.hk"
+      },
+      {
+        "rank": 4,
+        "name": "City University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.cityu.edu.hk"
+      },
+      {
+        "rank": 5,
+        "name": "Hong Kong Polytechnic University",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.polyu.edu.hk"
+      },
+      {
+        "rank": 6,
+        "name": "Hong Kong Baptist University",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.hkbu.edu.hk"
+      },
+      {
+        "rank": 7,
+        "name": "Lingnan University",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.ln.edu.hk"
+      },
+      {
+        "rank": 8,
+        "name": "Hang Seng University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.hsu.edu.hk"
+      },
+      {
+        "rank": 9,
+        "name": "Open University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.ouhk.edu.hk"
+      },
+      {
+        "rank": 10,
+        "name": "The Education University of Hong Kong",
+        "city": "Hong Kong",
+        "state": "",
+        "country": "Hong Kong",
+        "website": "http://www.eduhk.hk"
+      }
+    ],
+    "Taiwan": [
+      {
+        "rank": 1,
+        "name": "National Taiwan University",
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ntu.edu.tw"
+      },
+      {
+        "rank": 2,
+        "name": "National Tsing Hua University",
+        "city": "Hsinchu",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.nthu.edu.tw"
+      },
+      {
+        "rank": 3,
+        "name": "National Chiao Tung University",
+        "city": "Hsinchu",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.nctu.edu.tw"
+      },
+      {
+        "rank": 4,
+        "name": "National Cheng Kung University",
+        "city": "Tainan",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ncku.edu.tw"
+      },
+      {
+        "rank": 5,
+        "name": "National Central University",
+        "city": "Taoyuan",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ncu.edu.tw"
+      },
+      {
+        "rank": 6,
+        "name": "National Yang Ming Chiao Tung University",
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.nycu.edu.tw"
+      },
+      {
+        "rank": 7,
+        "name": "National Sun Yat-sen University",
+        "city": "Kaohsiung",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.nsysu.edu.tw"
+      },
+      {
+        "rank": 8,
+        "name": "National Taipei University",
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ntpu.edu.tw"
+      },
+      {
+        "rank": 9,
+        "name": "National Taiwan Normal University",
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ntnu.edu.tw"
+      },
+      {
+        "rank": 10,
+        "name": "National Taiwan University of Science and Technology",
+        "city": "Taipei",
+        "state": "",
+        "country": "Taiwan",
+        "website": "http://www.ntust.edu.tw"
+      }
+    ],
+    "Philippines": [
+      {
+        "rank": 1,
+        "name": "University of the Philippines Diliman",
+        "city": "Quezon City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.upd.edu.ph"
+      },
+      {
+        "rank": 2,
+        "name": "Ateneo de Manila University",
+        "city": "Quezon City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.ateneo.edu"
+      },
+      {
+        "rank": 3,
+        "name": "De La Salle University",
+        "city": "Manila",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.dlsu.edu.ph"
+      },
+      {
+        "rank": 4,
+        "name": "University of Santo Tomas",
+        "city": "Manila",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.ust.edu.ph"
+      },
+      {
+        "rank": 5,
+        "name": "University of the Philippines Los Baños",
+        "city": "Los Baños",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.uplb.edu.ph"
+      },
+      {
+        "rank": 6,
+        "name": "University of San Carlos",
+        "city": "Cebu City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.ucsc.edu.ph"
+      },
+      {
+        "rank": 7,
+        "name": "Silliman University",
+        "city": "Dumaguete City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.su.edu.ph"
+      },
+      {
+        "rank": 8,
+        "name": "University of Mindanao",
+        "city": "Davao City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.umo.edu.ph"
+      },
+      {
+        "rank": 9,
+        "name": "Mindanao State University",
+        "city": "Marawi City",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.msu.edu.ph"
+      },
+      {
+        "rank": 10,
+        "name": "Polytechnic University of the Philippines",
+        "city": "Manila",
+        "state": "",
+        "country": "Philippines",
+        "website": "http://www.pup.edu.ph"
+      }
+    ],
+    "Indonesia": [
+      {
+        "rank": 1,
+        "name": "University of Indonesia",
+        "city": "Depok",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.ui.ac.id"
+      },
+      {
+        "rank": 2,
+        "name": "Gadjah Mada University",
+        "city": "Yogyakarta",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.ugm.ac.id"
+      },
+      {
+        "rank": 3,
+        "name": "Bandung Institute of Technology",
+        "city": "Bandung",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.itb.ac.id"
+      },
+      {
+        "rank": 4,
+        "name": "Airlangga University",
+        "city": "Surabaya",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.unair.ac.id"
+      },
+      {
+        "rank": 5,
+        "name": "Diponegoro University",
+        "city": "Semarang",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.undip.ac.id"
+      },
+      {
+        "rank": 6,
+        "name": "University of Brawijaya",
+        "city": "Malang",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.ub.ac.id"
+      },
+      {
+        "rank": 7,
+        "name": "Sebelas Maret University",
+        "city": "Surakarta",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.uns.ac.id"
+      },
+      {
+        "rank": 8,
+        "name": "Institut Pertanian Bogor",
+        "city": "Bogor",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.ipb.ac.id"
+      },
+      {
+        "rank": 9,
+        "name": "Padjadjaran University",
+        "city": "Bandung",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.unpad.ac.id"
+      },
+      {
+        "rank": 10,
+        "name": "University of Jember",
+        "city": "Jember",
+        "state": "",
+        "country": "Indonesia",
+        "website": "http://www.unej.ac.id"
+      }
+    ],
+    "Malaysia": [
+      {
+        "rank": 1,
+        "name": "University of Malaya",
+        "city": "Kuala Lumpur",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.um.edu.my"
+      },
+      {
+        "rank": 2,
+        "name": "Universiti Teknologi Malaysia",
+        "city": "Skudai",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.utm.my"
+      },
+      {
+        "rank": 3,
+        "name": "Universiti Putra Malaysia",
+        "city": "Serdang",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.upm.edu.my"
+      },
+      {
+        "rank": 4,
+        "name": "Universiti Sains Malaysia",
+        "city": "Penang",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.usm.my"
+      },
+      {
+        "rank": 5,
+        "name": "Universiti Kebangsaan Malaysia",
+        "city": "Bangi",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.ukm.my"
+      },
+      {
+        "rank": 6,
+        "name": "Monash University Malaysia",
+        "city": "Bandar Sunway",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.monash.edu.my"
+      },
+      {
+        "rank": 7,
+        "name": "Universiti Teknikal Malaysia Melaka",
+        "city": "Melaka",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.utem.edu.my"
+      },
+      {
+        "rank": 8,
+        "name": "Universiti Malaysia Perlis",
+        "city": "Perlis",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.unimap.edu.my"
+      },
+      {
+        "rank": 9,
+        "name": "Universiti Malaysia Sarawak",
+        "city": "Kuching",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.unimas.my"
+      },
+      {
+        "rank": 10,
+        "name": "Universiti Malaysia Sabah",
+        "city": "Kota Kinabalu",
+        "state": "",
+        "country": "Malaysia",
+        "website": "http://www.ums.edu.my"
+      }
+    ],
+    "Vietnam": [
+      {
+        "rank": 1,
+        "name": "Vietnam National University, Hanoi",
+        "city": "Hanoi",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.vnu.edu.vn"
+      },
+      {
+        "rank": 2,
+        "name": "Vietnam National University, Ho Chi Minh City",
+        "city": "Ho Chi Minh City",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.vnuhcm.edu.vn"
+      },
+      {
+        "rank": 3,
+        "name": "Hanoi University of Science and Technology",
+        "city": "Hanoi",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.hust.edu.vn"
+      },
+      {
+        "rank": 4,
+        "name": "University of Danang",
+        "city": "Da Nang",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.udn.vn"
+      },
+      {
+        "rank": 5,
+        "name": "Can Tho University",
+        "city": "Can Tho",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.ctu.edu.vn"
+      },
+      {
+        "rank": 6,
+        "name": "HCMC University of Technology",
+        "city": "Ho Chi Minh City",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.hcmut.edu.vn"
+      },
+      {
+        "rank": 7,
+        "name": "Hue University",
+        "city": "Hue",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.hueuni.edu.vn"
+      },
+      {
+        "rank": 8,
+        "name": "University of Economics Ho Chi Minh City",
+        "city": "Ho Chi Minh City",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.ueh.edu.vn"
+      },
+      {
+        "rank": 9,
+        "name": "University of Information Technology",
+        "city": "Ho Chi Minh City",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.uit.edu.vn"
+      },
+      {
+        "rank": 10,
+        "name": "University of Danang - University of Science and Technology",
+        "city": "Da Nang",
+        "state": "",
+        "country": "Vietnam",
+        "website": "http://www.udn.vn"
+      }
+    ]
+  }
+  
